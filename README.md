@@ -9,9 +9,7 @@ Hello! I'm Surbhi Panchal, an aspiring Full-Stack Developer with expertise in Fr
 ![gif2](https://github.com/user-attachments/assets/1ed224d5-97f0-474d-a3fe-469330244ec9)
 
 ![Tech Stack Animation](gif2.gif)
-
 ---
-
 ### **Languages:**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -46,8 +44,6 @@ Hello! I'm Surbhi Panchal, an aspiring Full-Stack Developer with expertise in Fr
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Surbhi-Panchal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 ## Contributions Welcome!  
 If you find my projects interesting, I’d love your contributions and improvements! Feel free to fork my repositories and submit pull requests. I'm always eager to learn and grow alongside other developers.
