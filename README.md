@@ -1,3 +1,5 @@
+![git banner](https://github.com/user-attachments/assets/8d9b234d-ef89-4e76-9dd7-665099dccffa)
+
 # 💫 About Me:
 Hello! I'm Surbhi Panchal, an aspiring Full-Stack Developer with expertise in Frontend and Backend Development. Currently refining my skills in Web Development and Data Structures & Algorithms (DSA). I am well-versed in technologies like HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and more. I am passionate about building efficient, scalable applications and continually improving my coding skills. I thrive in collaborative environments and always seek new opportunities to contribute to impactful projects
 
