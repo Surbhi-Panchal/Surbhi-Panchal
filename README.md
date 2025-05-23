@@ -6,6 +6,7 @@ Hello! I'm Surbhi Panchal, an aspiring Full-Stack Developer with expertise in Fr
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Esap6khc5Z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/surbhi03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surbhicseng@gmail.com) 
 
 # 💻 Tech Stack:
+![gif2](https://github.com/user-attachments/assets/1ed224d5-97f0-474d-a3fe-469330244ec9)
 
 ![Tech Stack Animation](gif2.gif)
 
