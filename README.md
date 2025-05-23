@@ -1,6 +1,7 @@
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/65bd11c1-7d61-41bd-8a03-dcdb1774b78e" />
-# 💫 About Me:
-Hello! I'm Surbhi Panchal, an aspiring Full-Stack Developer with expertise in Frontend and Backend Development. Currently refining my skills in Web Development and Data Structures & Algorithms (DSA). I am well-versed in technologies like HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and more. I am passionate about building efficient, scalable applications and continually improving my coding skills. I thrive in collaborative environments and always seek new opportunities to contribute to impactful projects
+
+✍ About Me:
+Hello! I'm Dheeraj Ray, an aspiring Full-Stack Developer with expertise in Frontend and Backend Development. Currently refining my skills in Web Development and Data Structures & Algorithms (DSA). I am well-versed in technologies like HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and more. I am passionate about building efficient, scalable applications and continually improving my coding skills. I thrive in collaborative environments and always seek new opportunities to contribute to impactful projects.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Esap6khc5Z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/surbhi03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surbhicseng@gmail.com) 
